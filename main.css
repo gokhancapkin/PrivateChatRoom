@@ -1,0 +1,11 @@
+#chat { width: 1366px; height: 600px; margin:0 auto;border: solid;}
+#profil { width: 100%; height: 30%; background-color: #801a00; }
+#ortaalan { width: 100%; height: 60%; background-color: greenyellow; }
+#sari { width: 100%; height: 10%; background-color: #b35900; }
+#onlineusers { float:left; width: 14.6%; height: 100%; background-color: #bf4040; font-size: 20px; color: white;font-style: italic; font-weight: bold;}
+#send { float:left; width:85.4%; height: 100%; background-color: blueviolet; }
+#mesajlar { height: 70%; background-color: #e6f3ff; }
+#sendbox { width : 100% ; height: 30%; background-color: #801a00;  }
+#login {width: 1366px; height: 600px;  background-color: #007399;text-align:center; padding-top: 20%;
+  font-style: italic; font-size: 50px; color: white; font-weight: bold;}
+#usernameinput {width: 20%;height: 7%; font-size: 20px;background-color: #ff6600; font-weight: bold; color: white;}
